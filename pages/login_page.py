@@ -1,0 +1,10 @@
+before_login_allow_all_btn = "/html/body/div[1]/div/div[4]/div[1]/div[2]/button[4]"
+heading_anchor_links = "//a[@href]"
+email_input = "/html/body/app-root/app-login/section/div/div/div/div/div/form/div[1]/div/input"
+password_input = "/html/body/app-root/app-login/section/div/div/div/div/div/form/div[2]/div[2]/input"
+login_btn = '/html/body/app-root/app-login/section/div/div/div/div/div/form/div[3]/button'
+login_alert_danger = "/html/body/app-root/app-login/section/div/div/div/div/div/form/div[3]/p"
+logout_btn = "/html/body/app-root/app-dashboard/app-physiotherapist/app-navbar/nav/div/div/ul/li[2]/div/a[3]"
+profile_icon = "/html/body/app-root/app-dashboard/app-physiotherapist/app-navbar/nav/div/div/ul/li[2]"
+login_language_english_btn = "/html/body/app-root/app-login/app-navbar/nav/div/div/ul/li[6]/a/span[1]/img"
+login_language_german_btn = "/html/body/app-root/app-login/app-navbar/nav/div/div/ul/li[6]/a/span[2]/img"

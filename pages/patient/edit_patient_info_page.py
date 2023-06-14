@@ -1,0 +1,8 @@
+edit_patient_info_btn = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-patient-details/section/div/section/div[1]/div/div[1]/div/div[1]/div[1]/div/i"
+edit_first_name_input = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-patient-details/section/div/section/div[1]/div/div[1]/div/div[2]/div/div/div/form/div[1]/div[1]/input"
+edit_last_name_input = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-patient-details/section/div/section/div[1]/div/div[1]/div/div[2]/div/div/div/form/div[1]/div[2]/input"
+edit_birthdate_input = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-patient-details/section/div/section/div[1]/div/div[1]/div/div[2]/div/div/div/form/div[2]/div[1]/input"
+edit_email_input = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-patient-details/section/div/section/div[1]/div/div[1]/div/div[2]/div/div/div/form/div[2]/div[2]/input"
+edit_save_btn = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-patient-details/section/div/section/div[1]/div/div[1]/div/div[2]/div/div/div/div/button[1]"
+edit_confirm_btn = "/html/body/ngb-modal-window/div/div/div[3]/button[1]"
+create_exercise_btn = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-patient-details/section/div/section/div[1]/div/div[3]/div/button"

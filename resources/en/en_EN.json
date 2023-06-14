@@ -1,0 +1,5 @@
+{
+  "login": "Login",
+  "home": "Home",
+  "login_error_msg" : "The email address or password is incorrect"
+}

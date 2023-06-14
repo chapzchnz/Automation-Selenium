@@ -1,0 +1,8 @@
+abdominal_muscle_add_icon = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-create-exercise-program/div/section/div/div[2]/div/div[3]/div/div[1]/span/i"
+cosmic_center_add_icon = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-create-exercise-program/div/section/div/div[2]/div/div[4]/div/div[1]/span/i"
+cosmic_grounding_add_icon = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-create-exercise-program/div/section/div/div[2]/div/div[5]/div/div[1]/span/i"
+cosmic_unit_add_icon = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-create-exercise-program/div/section/div/div[2]/div/div[6]/div/div[1]/span/i"
+cosmic_victory_add_icon = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-create-exercise-program/div/section/div/div[2]/div/div[6]/div/div[1]/span/i"
+next_btn = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-create-exercise-program/div/section/div/div[2]/div/div[8]/span/button"
+calender_cell_1 = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-create-exercise-program/div/section/div/div[2]/div/div[1]/app-calendar/div/div[2]/mwl-calendar-month-view/div/div/div[4]/div/mwl-calendar-month-cell[6]"
+create_btn = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-create-exercise-program/div/section/div/div[2]/div/div[2]/button[1]"

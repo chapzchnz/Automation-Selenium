@@ -1,0 +1,2 @@
+delete_first_patient_icon = "/html/body/app-root/app-dashboard/app-physiotherapist/div/app-index/section/div/div/div[2]/div[2]/div[3]/table/tbody/tr[1]/td[5]/i"
+delete_patient_confirm_popup_btn = "/html/body/ngb-modal-window/div/div/div[3]/button[1]"
